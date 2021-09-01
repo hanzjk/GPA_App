@@ -1,6 +1,6 @@
 # GPA Calculator App
 
-Cumulative Grade Point Average Calculator App which is applicable for all universities that uses 4.0 scale.
+Cumulative Grade Point Average Calculator App built using Flutter with Firebase. This app is designed for the use of any university that uses 4.0 scale.
 
 ## Features
 1. Calculate the CGPA 
@@ -8,7 +8,7 @@ Cumulative Grade Point Average Calculator App which is applicable for all univer
 3. Add/delete/update courses of a semester
 4. Real time CRUD operations
 5. Store the results to the database 
-A new Flutter project.
+
 
 ## UI Interfaces
 
